@@ -1,6 +1,6 @@
 Introduction
 ============
 
+This is the product used for trainigs.
 
-
-This product may contain traces of nuts.
+http://plone-training.readthedocs.org
